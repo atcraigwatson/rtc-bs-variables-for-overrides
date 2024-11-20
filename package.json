@@ -1,0 +1,21 @@
+{
+  "name": "rtc-bs-variables-for-overrides",
+  "version": "1.0.0",
+  "description": "Shows the issues of using default variables in your overrides.",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "dev": "wp-scripts start",
+    "devFast": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "dependencies": {
+    "@wordpress/scripts": "^30.5.1"
+  }
+}

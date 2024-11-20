@@ -1,0 +1,4 @@
+// Adjust default $box-shadow variable
+//
+// $box-shadow: <offset-x> <offset-y> <blur> <color>;
+$box-shadow: $spacer $spacer 0 $secondary;
